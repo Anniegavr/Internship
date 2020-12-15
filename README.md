@@ -1,5 +1,5 @@
-# Internship
-Console Application using Entity Framework 6
+# Internship product: Console Application using Entity Framework 6
+Based on a school context.
 The application's first menu offers you the options:
 1. Access courses / teachers / students information.
 Then:
